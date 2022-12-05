@@ -59,7 +59,7 @@ pagina estatica
         </div>
         <div class="sobremi">
             <p class="titulo-seccion">Sobre Mi</p>
-            <h2>Hola, Soy <span>Jacqueline Ojeda</span> </h2>
+            <h2>Hola, Soy <span>Jacqueline </span> </h2>
             <h3>Desarrollador Web</h3>
             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consectetur reprehenderit voluptatibus blanditiis nulla adipisci iste fuga expedita, ea exercitationem dicta, similique rem, atque soluta recusandae ipsam autem. Sapiente, quo ducimus?</p>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro nam a beatae natus.</p>
