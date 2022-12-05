@@ -10,7 +10,7 @@ pagina estatica
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g==" crossorigin="anonymous" referrerpolicy="no-referrer"
     />
     <link rel="stylesheet" href="estilo.css">
-    <title>LP Desarrollador Web</title>
+    <title>Desarrollador Web</title>
 </head>
 
 <body>
@@ -19,7 +19,7 @@ pagina estatica
         <div class="contenido">
             <header>
                 <div class="contenido-header">
-                    <h1>/LP/</h1>
+                    <h1>/O.J./</h1>
                     <nav id="nav" class="">
                         <ul id="links">
                             <li><a href="#inicio" class="seleccionado" onclick="seleccionar(this)">INICIO</a></li>
@@ -46,7 +46,7 @@ pagina estatica
             <div class="presentacion">
                 <p class="bienvenida">Bienvenidos</p>
                 <h2>Soy <span>Ojeda Jacqueline</span>, Desarrollador Web</h2>
-                <p class="descripcion">Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta, </p>
+                <p class="descripcion"> </p>
                 <a href="#portfolio">Ir a Portafolio</a>
             </div>
         </div>
